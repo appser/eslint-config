@@ -1,0 +1,1 @@
+# Appser eslint config
