@@ -9,6 +9,7 @@
   "peerDependencies": {
     "eslint": "^8.39.0"
   },
+  "files": ["lib"],
   "devDependencies": {
     "@studysync/eslint-plugin-persnickety": "^1.0.5",
     "@typescript-eslint/eslint-plugin": "^5.59.5",
