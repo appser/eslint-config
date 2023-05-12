@@ -5,7 +5,7 @@
   "author": "",
   "license": "MIT",
   "keywords": [],
-  "main": "index.js",
+  "main": "lib/index.js",
   "peerDependencies": {
     "eslint": "^8.39.0"
   },
