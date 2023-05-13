@@ -7,6 +7,7 @@
   "keywords": [],
   "main": "lib/index.js",
   "files": [
+    ".vscode",
     "lib",
     "remix.js"
   ],
